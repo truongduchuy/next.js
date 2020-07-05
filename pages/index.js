@@ -16,7 +16,7 @@ export default function Home({allPostsData }) {
         <p>Hello, I'm Huy. I'm a Front-end Developer. You can contact me on 
           <a href="https://www.facebook.com/huytruong30"> Facebook</a>.</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
+          (you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
